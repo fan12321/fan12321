@@ -1,5 +1,4 @@
-### Hi there 👋 Welcome to my Github homepage
-#### My name is 范振麒, you can call me Fan
+### 👋 Hi there My name is Fan. Welcome to my Github homepage! 👋
 
 <!--
 **fan12321/fan12321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
