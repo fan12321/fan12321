@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: fanchenchi00073@gmail.com
 - 💬 Fell free to ask me about anything
 
-
+<!-- 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+ -->
