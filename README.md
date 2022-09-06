@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m pursuing my computer science Master degree @ UIUC
 - 🌱 I’m interested in reading novels, binge-watching
-- 📫 How to reach me: fanchenchi00073@gmail.com
+- 📫 How to reach me: ccfan2@illinois.edu
 - 💬 Fell free to ask me about anything
 
 <!-- 
